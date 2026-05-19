@@ -4,6 +4,9 @@ import { Solution } from "@/components/sections/Solution";
 import { HowWeWork } from "@/components/sections/HowWeWork";
 import { Services } from "@/components/sections/Services";
 import { Cases } from "@/components/sections/Cases";
+import { Numbers } from "@/components/sections/Numbers";
+import { HowToStart } from "@/components/sections/HowToStart";
+import { Pricing } from "@/components/sections/Pricing";
 
 export default function Home() {
   return (
@@ -14,6 +17,9 @@ export default function Home() {
       <HowWeWork />
       <Services />
       <Cases />
+      <Numbers />
+      <HowToStart />
+      <Pricing />
     </main>
   );
 }
