@@ -7,6 +7,7 @@ import { Cases } from "@/components/sections/Cases";
 import { Numbers } from "@/components/sections/Numbers";
 import { HowToStart } from "@/components/sections/HowToStart";
 import { Pricing } from "@/components/sections/Pricing";
+import { FAQ } from "@/components/sections/FAQ";
 
 export default function Home() {
   return (
@@ -20,6 +21,7 @@ export default function Home() {
       <Numbers />
       <HowToStart />
       <Pricing />
+      <FAQ />
     </main>
   );
 }
