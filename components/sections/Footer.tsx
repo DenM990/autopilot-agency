@@ -35,7 +35,7 @@ export function Footer() {
           </p>
           <div className="flex gap-6">
             <a
-              href="https://t.me/den_autopilot"
+              href="https://t.me/dm1975_23"
               className="text-text-secondary hover:text-accent transition-colors text-xs"
               target="_blank"
               rel="noopener noreferrer"

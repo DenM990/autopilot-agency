@@ -101,21 +101,12 @@ export function Contacts() {
             <div>
               <p className="text-text-secondary text-sm mb-1">Telegram</p>
               <a
-                href="https://t.me/den_autopilot"
+                href="https://t.me/dm1975_23"
                 className="text-accent hover:underline text-lg font-medium"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                @den_autopilot
-              </a>
-            </div>
-            <div>
-              <p className="text-text-secondary text-sm mb-1">Email</p>
-              <a
-                href="mailto:hello@автопилот-ии.рф"
-                className="text-accent hover:underline text-lg font-medium"
-              >
-                hello@автопилот-ии.рф
+                @dm1975_23
               </a>
             </div>
             <div>
