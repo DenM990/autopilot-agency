@@ -110,6 +110,15 @@ export function Contacts() {
               </a>
             </div>
             <div>
+              <p className="text-text-secondary text-sm mb-1">Email</p>
+              <a
+                href="mailto:info@автопилот-ии.рф"
+                className="text-accent hover:underline text-lg font-medium"
+              >
+                info@автопилот-ии.рф
+              </a>
+            </div>
+            <div>
               <p className="text-text-secondary text-sm mb-1">География</p>
               <p className="text-text-primary">Калининград — онлайн по всей России</p>
             </div>
